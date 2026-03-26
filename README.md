@@ -1,9 +1,11 @@
 Universal Existence Axiom (UEA) Framework
  
 A Cross-Disciplinary Unified Framework Based on the Universal Existence Axiom, which breaks disciplinary barriers and provides a unified conceptual and logical foundation for complex systems science across physical, biological, psychological, social, technical, and civilizational domains.
+
+**DOI: [10.5281/zenodo.19236831](https://doi.org/10.5281/zenodo.19236831)**  
+ *Published on Zenodo | March 26, 2026*
  
 Author
- 
 Cy Luo
 Independent Researcher
 Correspondence: 1491850202@qq.com | Tel.: +86 19854198428
